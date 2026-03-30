@@ -113,4 +113,5 @@ It also demonstrates basic security concepts required for roles like SOC Analyst
 ##  Author
 
 **Sahil Chougale**
+
 Aspiring Cybersecurity Analyst 🚀
