@@ -19,7 +19,7 @@ product-security-lab/
 │
 ├── vulnerable-app/        # Node.js login application
 ├── threat-modeling/       # Threat analysis (TARA)
-├── pentest-reports/       # Nmap scan results
+├── pentest-reports/       # Nmap & ZAP reports
 ├── sbom/                  # Dependency list (SBOM)
 ├── vulnerability-scanner/ # Vulnerability analysis report
 └── README.md
@@ -55,6 +55,17 @@ product-security-lab/
 
 ---
 
+### 🔹 Web Vulnerability Scanning (OWASP ZAP)
+
+* Performed basic web application scanning using OWASP ZAP
+* Explored automated vulnerability detection
+* Identified common issues such as:
+
+  * Input-based vulnerabilities
+  * Missing security headers
+
+---
+
 ### 🔹 SBOM (Software Bill of Materials)
 
 * Generated using CycloneDX
@@ -79,7 +90,8 @@ product-security-lab/
 * Express.js
 * SQLite
 * Nmap
-* CycloneDX
+* OWASP ZAP
+
 
 ---
 
@@ -87,7 +99,7 @@ product-security-lab/
 
 * Understood how SQL Injection works
 * Performed port scanning using Nmap
-* Learned threat modeling basics (TARA)
+* Explored web vulnerability scanning using OWASP ZAP
 * Generated SBOM for dependency tracking
 * Analyzed vulnerabilities based on risk level
 
@@ -110,8 +122,7 @@ It also demonstrates basic security concepts required for roles like SOC Analyst
 
 ---
 
-##  Author
+## 📢 Author
 
 **Sahil Chougale**
-
 Aspiring Cybersecurity Analyst 🚀
