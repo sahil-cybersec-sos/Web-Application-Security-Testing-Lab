@@ -1,4 +1,4 @@
-# Threat Model (Easy Version)
+# Threat Model 
 
 ## 1. What we want to protect (Assets)
 - Username & Password
